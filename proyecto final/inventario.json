@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Aceite Castrol",
+        "categoria": "Aceites y Lubricantes",
+        "cantidad": 10,
+        "precio": 400
+    },
+    {
+        "nombre": "Aceite Axiom",
+        "categoria": "Aceites y Lubricantes",
+        "cantidad": 10,
+        "precio": 450
+    },
+    {
+        "nombre": "Neum\u00e1tico 3.25-17 GB Boy",
+        "categoria": "Neum\u00e1ticos y Llantas",
+        "cantidad": 6,
+        "precio": 700
+    },
+    {
+        "nombre": "Neum\u00e1tico 4.00-17 GB Boy",
+        "categoria": "Neum\u00e1ticos y Llantas",
+        "cantidad": 1,
+        "precio": 800
+    },
+    {
+        "nombre": "Neum\u00e1tico 3.00-17",
+        "categoria": "Neum\u00e1ticos y Llantas",
+        "cantidad": 10,
+        "precio": 900
+    },
+    {
+        "nombre": "Cable clutch",
+        "categoria": "Partes de transmisi\u00f3n y frenos",
+        "cantidad": 10,
+        "precio": 550
+    },
+    {
+        "nombre": "Manigueta clutch",
+        "categoria": "Partes de transmisi\u00f3n y frenos",
+        "cantidad": 10,
+        "precio": 600
+    },
+    {
+        "nombre": "CDI CRF200",
+        "categoria": "El\u00e9ctricos y electr\u00f3nicos",
+        "cantidad": 7,
+        "precio": 450
+    },
+    {
+        "nombre": "Bobina bajo 8M3 C6150-8",
+        "categoria": "El\u00e9ctricos y electr\u00f3nicos",
+        "cantidad": 10,
+        "precio": 350
+    },
+    {
+        "nombre": "Chispero D8",
+        "categoria": "El\u00e9ctricos y electr\u00f3nicos",
+        "cantidad": 4,
+        "precio": 900
+    },
+    {
+        "nombre": "Protector pedal cambio azul",
+        "categoria": "Accesorios y varios",
+        "cantidad": 8,
+        "precio": 500
+    },
+    {
+        "nombre": "Spray negro brillante",
+        "categoria": "Accesorios y varios",
+        "cantidad": 10,
+        "precio": 250
+    },
+    {
+        "nombre": "Boya shop has 8001",
+        "categoria": "Accesorios y varios",
+        "cantidad": 10,
+        "precio": 600
+    },
+    {
+        "nombre": "Neum\u00e1tico 3.25-17 GB Boy ",
+        "categoria": "  Neum\u00e1ticos y Llantas   ",
+        "cantidad": 3,
+        "precio": 700.0
+    },
+    {
+        "nombre": "Neum\u00e1tico 4.00-17 GB Boy  ",
+        "categoria": " Neum\u00e1ticos y Llantas ",
+        "cantidad": 9,
+        "precio": 800.0
+    }
+]

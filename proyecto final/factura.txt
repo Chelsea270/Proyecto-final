@@ -1,0 +1,42 @@
+========== FACTURA ==========
+Cliente: José Carlos 
+RUC: 5846
+Fecha: 01-07-25
+Producto	Cant	Precio	Total
+Neumático 3.25-17 GB Boy	4	C$700	C$2800
+Neumático 4.00-17 GB Boy	9	C$800	C$7200
+
+Subtotal: C$10000.00
+IVA (15%): C$1500.00
+Descuento: C$1000.00
+TOTAL A PAGAR: C$10500.00
+=============================
+
+========== FACTURA ==========
+Cliente: Marcelo
+RUC: 98
+Fecha: 01-07-25
+Producto	Cant	Precio	Total
+Chispero D8	6	C$900	C$5400
+
+Subtotal: C$5400.00
+IVA (15%): C$810.00
+Descuento: C$270.00
+TOTAL A PAGAR: C$5940.00
+=============================
+
+========== FACTURA ==========
+Cliente: Lenin
+RUC: 65447
+Fecha: 01-07-25
+Producto	Cant	Precio	Total
+Protector pedal cambio azul	2	C$500	C$1000
+CDI CRF200	3	C$450	C$1350
+Neumático 3.25-17 GB Boy 	1	C$700.0	C$700.0
+
+Subtotal: C$3050.00
+IVA (15%): C$457.50
+Descuento: C$152.50
+TOTAL A PAGAR: C$3355.00
+=============================
+
